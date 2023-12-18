@@ -31,7 +31,9 @@ I hold B.Sc. degrees in Software Engineering and Business Management with distin
 
 I'm passionate about building exceptional digital solutions. Reach out if you're seeking expertise in web & mobile app development, e-commerce solutions, or collaborative tech endeavors!
 
-<!--- - 📫 How to reach me: [linktree](https://linktr.ee/billionshiferaw) --->
+---
+
+📫 How to reach me: Email *or [checkout linktree](https://linktr.ee/billionshiferaw)*
 
 <!---
 billishe/billishe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
