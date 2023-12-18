@@ -10,7 +10,7 @@ With over 5 years of expertise, I specialize in leveraging the power of Laravel 
 - **Diverse Skill Set:** Apart from development, I contribute insights, design interfaces, ensure extreme best practices, and deliver precise documentation.
 - **Collaborative Approach:** I seamlessly integrate with teams, brainstorming approaches, and coding efficiently even under limited resources.
 
-#### Technologies Summary:
+### Technologies Summary:
 PHP . Vanilla JS . Laravel (Various Versions). Flutter . Vue.js (2 or 3, Composition or Options API) . TailwindCSS . Bootstrap . jQuery . Databases (MySQL, MS SQL Server) . Firebase . REST APIs . OAuth . Vuetify . Python . Java . C# - Majorly TALL stack or VILT(Vue - Inertia -  Laravel - Tailwind CSS)
 
 ### Notable Ventures
