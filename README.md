@@ -33,7 +33,7 @@ I'm passionate about building exceptional digital solutions. Reach out if you're
 
 ---
 
-📫 How to reach me: Email *or [checkout linktree](https://linktr.ee/billionshiferaw)*
+📫 How to reach me: Email *or [checkout my linktree](https://linktr.ee/billionshiferaw)*
 
 <!---
 billishe/billishe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
