@@ -2,10 +2,7 @@
 
 For over 5 years, I am a full stack web and mobile developer.
 
-**Stack Focus:**
-Majorly [VILT stack](https://viltstack.dev/) (Vue - Inertia - Laravel - Tailwind CSS) and [TALL stack](https://tallstack.dev/) (Tailwind CSS, Alpine.js, Laravel, and Livewire)
 
-**Full List:**
 PHP . Javascript . Laravel (Various Versions) . Flutter . Vue.js 2 or 3(Composition or Options) . TailwindCSS . Bootstrap . jQuery . Databases (MySQL, MS SQL Server) . Firebase . REST APIs . OAuth . Python . Java . C# 
 
 ### Let's Connect!
