@@ -5,8 +5,6 @@ I’m a passionate **Full-Stack Developer** with over **6 years of professional 
 
 With a dual background in **Software Engineering** and **Business Management (both with Distinction)**, I bring together deep technical expertise and strategic thinking to deliver solutions that are not just functional — but valuable.
 
----
-
 <details>
 <summary>🧠 <b>Explore My Core Expertise</b> — How I build fast, scalable, and future-ready apps <i>(click to expand)</i></summary>
 
@@ -19,22 +17,20 @@ With a dual background in **Software Engineering** and **Business Management (bo
 
 </details>
 
----
-
 <details>
 <summary>🚀 <b>See My Most Impactful Projects</b> — Real products powering businesses and users worldwide <i>(click to expand)</i></summary>
 
 - **Daily Mini Mart (E-commerce Ecosystem)**  
   Architected a full Flutter + Laravel system integrated with Microsoft Dynamics Nav ERP for real-time inventory, orders, and financial management.  
 
-- **Passiv ID (Behavioral Biometrics Platform)**  
-  Built end-to-end web and mobile integration for a machine-learning-powered biometric platform with real-time analytics and Firebase dashboards.  
+- **ML Platform (Biometrics Platform)**  
+  Built end-to-end web and mobile integration for a machine-learning-powered behavioral biometrics platform with real-time analytics and Firebase dashboards.  
 
 - **Engocha Classifieds App**  
   Developed a cross-platform Flutter app with Laravel backend for classifieds, job listings, and business directories — scaled to **50K+ active users**.  
 
-- **EKAD Greece**  
-  Implemented core search and tree-based logic for the national Business Activity Codes platform.  
+- **Greece Platform**  
+  Implemented core search and tree-based logic for the Business Activity Codes platform.  
 
 - **Independent Projects:**  
   - **Teyaki:** Exam & quiz platform built with Laravel 11 & TailwindCSS  
@@ -44,8 +40,6 @@ With a dual background in **Software Engineering** and **Business Management (bo
 
 </details>
 
----
-
 <details>
 <summary>🎓 <b>My Academic Foundation</b> — Where code met business excellence <i>(click to expand)</i></summary>
 
@@ -54,8 +48,6 @@ With a dual background in **Software Engineering** and **Business Management (bo
 
 </details>
 
----
-
 <details>
 <summary>💡 <b>What I’m Exploring Now</b> — The frontier of AI, LLMs & scalable architecture <i>(click to expand)</i></summary>
 
@@ -63,13 +55,8 @@ Exploring **Generative AI**, **LLM integrations**, and **advanced system design*
 
 </details>
 
----
-
 ## 🌐 Let’s Connect
 💼 [Linktree](https://linktr.ee/billionshiferaw)  
-💻 [GitHub](https://github.com/billishe)  
 📧 Reach out for collaborations, open-source projects, or exciting opportunities!
-
----
 
 > “Obsessed with clean code and the next wave of innovation.”
