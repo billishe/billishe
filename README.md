@@ -7,28 +7,34 @@ With a dual background in **Software Engineering** and **Business Management (bo
 
 ---
 
-## 🧠 Core Expertise
+<details>
+<summary>🧠 <b>Explore My Core Expertise</b> — How I build fast, scalable, and future-ready apps <i>(click to expand)</i></summary>
+
 - **Full-Stack Development:** Laravel, Flutter, Vue.js, Inertia, TailwindCSS, Livewire  
 - **Backend Systems:** REST APIs, OAuth, Firebase, MySQL, MS SQL Server, NoSQL  
 - **Frontend Design:** Responsive UI/UX, component-based architecture, performance optimization  
 - **Enterprise Integration:** Microsoft Dynamics Nav (ERP), API & system architecture  
-- **AI & Innovation:** Generative AI Prompt Engineering, LLM Integration, Biometrics  
+- **AI & Innovation:** Generative AI Prompt Engineering, LLM Integration, Behavioral Biometrics  
 - **Collaboration & Best Practices:** Code review, documentation, Git workflows, scalable architecture  
+
+</details>
 
 ---
 
-## 🚀 Selected Projects
+<details>
+<summary>🚀 <b>See My Most Impactful Projects</b> — Real products powering businesses and users worldwide <i>(click to expand)</i></summary>
+
 - **Daily Mini Mart (E-commerce Ecosystem)**  
   Architected a full Flutter + Laravel system integrated with Microsoft Dynamics Nav ERP for real-time inventory, orders, and financial management.  
 
-- **ML App (Behavioral Biometrics Platform)**  
+- **Passiv ID (Behavioral Biometrics Platform)**  
   Built end-to-end web and mobile integration for a machine-learning-powered biometric platform with real-time analytics and Firebase dashboards.  
 
 - **Engocha Classifieds App**  
   Developed a cross-platform Flutter app with Laravel backend for classifieds, job listings, and business directories — scaled to **50K+ active users**.  
 
-- **Greece platform**  
-  Implemented core search and tree-based logic for a Greek Business platform.  
+- **EKAD Greece**  
+  Implemented core search and tree-based logic for the national Business Activity Codes platform.  
 
 - **Independent Projects:**  
   - **Teyaki:** Exam & quiz platform built with Laravel 11 & TailwindCSS  
@@ -36,16 +42,26 @@ With a dual background in **Software Engineering** and **Business Management (bo
   - **Min Letazez:** E-commerce marketplace with custom UX  
   - **Kutara:** AI-powered chat application integrating LLMs  
 
+</details>
+
 ---
 
-## 🎓 Education
+<details>
+<summary>🎓 <b>My Academic Foundation</b> — Where code met business excellence <i>(click to expand)</i></summary>
+
 - **B.Sc. Software Engineering**, Addis Ababa University — *Graduated with Distinction*  
 - **B.A. Business Management**, International Leadership Institute — *Graduated with Distinction*  
 
+</details>
+
 ---
 
-## 💡 Current Focus
+<details>
+<summary>💡 <b>What I’m Exploring Now</b> — The frontier of AI, LLMs & scalable architecture <i>(click to expand)</i></summary>
+
 Exploring **Generative AI**, **LLM integrations**, and **advanced system design** while continuing to build efficient, scalable, and elegant digital products.
+
+</details>
 
 ---
 
@@ -56,11 +72,4 @@ Exploring **Generative AI**, **LLM integrations**, and **advanced system design*
 
 ---
 
-> “Obsessed with creatitity, code and the next wave of tech innovation.”  
-> — *Billion Shiferaw*
-
-
-<!---
-billishe/billishe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> “Obsessed with clean code and the next wave of innovation.”
